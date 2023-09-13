@@ -1,2 +1,2 @@
 # learn-rust
-my journey to lear rust
+my journey to learn rust
